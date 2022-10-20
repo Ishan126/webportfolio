@@ -9,7 +9,7 @@ nav{
 }
 
 #landing{
-	background-color: #35264E;
+	background-color: #FFFADE;
 }
 
 #aboutme{
@@ -32,4 +32,18 @@ nav{
 
 #cards{
 	background-color: #CDE7F1;
+}
+
+#tools{
+	background-image: url(./images/tools.bg.jpeg);
+	width: 100%;
+
+}
+
+#formus{
+	background-color: F8C4B4;
+}
+
+#toolsuse{
+	t
 }
