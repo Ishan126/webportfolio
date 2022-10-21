@@ -14,7 +14,7 @@ nav{
 
 #aboutme{
 	font-family: 'Acme', sans-serif;
-	font-family: 'Zilla Slab', serif;
+	
 }
 
 #developer{
@@ -25,18 +25,11 @@ nav{
 
 #about{
 	font-family: 'Acme', sans-serif;
-	font-family: 'Press Start 2P', cursive;
-	font-family: 'Tangerine', cursive;
-	font-family: 'Zilla Slab', serif;
+	
 }
 
-#cards{
-	background-color: #CDE7F1;
+#projects{
 	font-family: 'Acme', sans-serif;
-	font-family: 'Press Start 2P', cursive;
-	font-family: 'Sorts Mill Goudy', serif;
-	font-family: 'Tangerine', cursive;
-	font-family: 'Zilla Slab', serif;
 }
 
 #tools{
@@ -45,10 +38,33 @@ nav{
 
 }
 
+#contact{
+	font-family: 'Press Start 2P', cursive;
+}
+
+#gmap_canvas{
+	font-family: 'Press Start 2P', cursive;
+}
+
+#message{
+	font-family: 'Press Start 2P', cursive;
+}
+
+#cards{
+	background-color: #CDE7F1;
+	font-family: 'Zilla Slab', serif;
+}
+
+#toolsuse{
+	font-family: 'Acme', sans-serif;
+}
+
+
 #formus{
 	background-color: F8C4B4;
 }
 
-#toolsuse{
-	t
+#footer{
+	font-family: 'Acme', sans-serif;
+	
 }
